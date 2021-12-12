@@ -1,1 +1,15 @@
 Отличий в human.txt нет
+https://github.com/JuliaMaffin123/git_lab1_lesson2/commits/master
+Сейчас я вижу 11 коммитов, но после сохранения этого комментария, их станет 12.
+Комментарии из коммитов:
+- init
+- heat added
+- boots
+- README added
+- dots
+- fix readme
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge branch 'hat'
+- Merge branch 'boots_buttons'
+- Сетевой repo #2 в среде
